@@ -12,8 +12,8 @@
 
 #pokelist li,
 #pokelist a {
-    width: 40px;
-    height: 34px;
+    width: 46px;
+    height: 32px;
     display: block;
 }
 
@@ -34,3 +34,55 @@
     width: 43px;
     background: url('img/pokemons.png') -720px 0;
 }
+
+#caterpie {
+    left: 195px;
+    width: 43px;
+    background: url('img/pokemons.png') -1041px 0;
+}
+
+#weedle {
+    left: 261px;
+    width: 43px;
+    background: url('img/pokemons.png') 0 -30px;
+}
+
+#rattata {
+    left: 327px; 
+    width: 43px;
+    background: url('img/pokemons.png') -486px -30px; 
+}
+
+#pidgey {
+    left: 393px; 
+    width: 43px;
+    background: url('img/pokemons.png') -645px -30px; 
+}
+
+#pikachu {
+    left: 459px; 
+    width: 43px;
+    background: url('img/pokemons.png') -960px -30px; 
+}
+
+#jigglypuff {
+    left: 525px; 
+    width: 43px;
+    background: url('img/pokemons.png') -840px -60px; 
+}
+
+#poke2 {
+    left: 591px;
+    width: 43px;
+    background: url('img/pokemons.png') 0 -269px;
+}
+
+
+#poke3 {
+    left: 0px;
+    width: 43px;
+    background: url('img/pokemons.png') -119px -150px;
+}
+
+
+
